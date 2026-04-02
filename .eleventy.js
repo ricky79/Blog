@@ -30,7 +30,7 @@ module.exports = function (eleventyConfig) {
       output: "_site"
     },
     // Se il sito è su username.github.io/Journey/ decommentare:
-    pathPrefix: "/Journey/",
+    pathPrefix: "/Blog/",
     markdownTemplateEngine: "njk",
     htmlTemplateEngine: "njk"
   };
