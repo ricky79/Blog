@@ -8,6 +8,15 @@ quote: "Il mondo è fatto di reti di baci, non di sassi"
 quoteAuthor: "Carlo Rovelli"
 ---
 
+
+
+
+#ATTENZIONE QUESTA E' UNA COPIA!!!! 
+
+
+
+
+
 ## Il Codice come Rete di Relazioni
 
 Quando Carlo Rovelli, nel suo viaggio attraverso la fisica quantistica, ci ricorda che il mondo è fatto di reti di baci e non di sassi, ci invita a spostare il nostro sguardo dall'oggetto alla relazione. E cosa sono, in fondo, i nostri codebase se non reti infinite di relazioni? Funzioni che si chiamano l'un l'altra, moduli che dipendono gli uni dagli altri, classi che collaborano per raggiungere obiettivi comuni. Il codice, proprio come il mondo descritto dalla fisica moderna, non è fatto di entità isolate, ma di connessioni, dipendenze, interazioni.
